@@ -25,7 +25,7 @@ requirements.txt requirements-build.txt start.cmd install.cmd build.cmd
 .gitignore .gitattributes .env.example CONTRIBUTING.md SECURITY.md
 CHANGELOG.md THIRD_PARTY_NOTICES.md
 assets/chevron-down.svg assets/chevron-up.svg
-docs/USAGE.md docs/DEVELOPMENT.md docs/PRIVACY.md
+docs/USAGE.md docs/DEVELOPMENT.md docs/PRIVACY.md docs/OPENID_TO_CHECKIN.md
 .github/workflows/ci.yml .github/workflows/release.yml
 screenshots/overview-dark.png screenshots/overview-light.png
 screenshots/accounts.png screenshots/schedule.png

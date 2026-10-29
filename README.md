@@ -6,7 +6,7 @@
 
 一个面向中南林业科技大学平安签到场景的 Windows 桌面客户端。使用 Python + PySide6 构建，支持账号管理、定时执行、任务结果核对、历史查询和加密备份，提供深色与浅色界面。
 
-**[下载 Windows 便携版](https://github.com/Yzcat766/csuft-pingan-desktop/releases/latest) · [使用说明](docs/USAGE.md) · [开发与构建](docs/DEVELOPMENT.md) · [隐私说明](docs/PRIVACY.md)**
+**[下载 Windows 便携版](https://github.com/Yzcat766/csuft-pingan-desktop/releases/latest) · [从获取 OpenID 到首次签到](docs/OPENID_TO_CHECKIN.md) · [使用说明](docs/USAGE.md) · [开发与构建](docs/DEVELOPMENT.md) · [隐私说明](docs/PRIVACY.md)**
 
 ![深色概览](screenshots/overview-dark.png)
 
@@ -25,6 +25,8 @@
 | 桌面体验 | 深浅主题、系统托盘、可选登录启动、任务期间防睡眠与失败通知 |
 
 ## 快速开始
+
+第一次使用可先阅读 **[从获取 OpenID 到完成第一次签到](docs/OPENID_TO_CHECKIN.md)**：配合另一个开源项目 [python-openid-tool](https://github.com/Yzcat766/python-openid-tool)，按图文步骤获取自己的 OpenID、导入账号、配置服务授权与位置，核对首次执行结果后再启用定时。
 
 ### 直接使用 Windows 程序
 
