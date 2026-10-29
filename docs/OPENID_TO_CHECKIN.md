@@ -69,7 +69,7 @@ OpenIDTool/
 
 ![捕获成功：OpenID 默认隐藏](https://raw.githubusercontent.com/Yzcat766/python-openid-tool/v1.0.0/docs/screenshots/success.png)
 
-## 3. 配置服务授权并启动平安签到
+## 3. 配置服务授权并启动平安签到（这一步可以跳过）
 
 先从托盘真正退出已打开的平安签到程序。在 `CSUFT-Pingan.exe` 所在文件夹打开 PowerShell，执行：
 
